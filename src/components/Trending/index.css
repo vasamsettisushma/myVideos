@@ -1,0 +1,17 @@
+.trendingIcon {
+  height: 60px;
+  width: 60px;
+  background-color: #f8fafc;
+}
+.firelogo {
+  color: red !important;
+  font-size: 30px;
+}
+
+.banner {
+  background-color: #f1f5f9;
+  width: 400px;
+}
+.trendingParentCon {
+  height: 87vh;
+}

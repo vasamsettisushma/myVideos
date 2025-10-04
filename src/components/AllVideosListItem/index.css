@@ -1,0 +1,13 @@
+.thumbnail {
+  height: 60px;
+}
+.channelLogo {
+  height: 30px;
+}
+.link {
+  all: unset;
+}
+.link:hover {
+  all: unset;
+  cursor: pointer;
+}

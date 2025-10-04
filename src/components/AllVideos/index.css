@@ -1,0 +1,7 @@
+.allVideosCon {
+  height: 87vh;
+  width: 200px;
+}
+.allVideosCon::-webkit-scrollbar {
+  display: none;
+}

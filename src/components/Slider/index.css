@@ -1,0 +1,13 @@
+.leftContentsCon {
+  height: 87vh;
+}
+.leftContentsCon::-webkit-scrollbar {
+  display: none;
+}
+.buttonRoute {
+  all: unset;
+}
+
+.buttonRoute:focus {
+  all: unset;
+}

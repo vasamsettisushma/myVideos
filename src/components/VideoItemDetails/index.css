@@ -1,0 +1,12 @@
+.videoDetailsCon {
+  height: 87vh;
+  box-sizing: border-box;
+}
+.videoDetailsCon::-webkit-scrollbar {
+  display: none;
+}
+.opinionButton:focus {
+  border-style: none;
+  outline: none;
+  background-color: transparent;
+}
