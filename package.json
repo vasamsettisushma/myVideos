@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15 || 16 || 18 || 20",
-    "npm": ">=6"
+    "npm": "18.x"
   },
   "dependencies": {
     "@craco/craco": "6.1.1",
