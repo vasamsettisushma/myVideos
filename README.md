@@ -1,5 +1,5 @@
 # NextWatch 
-[https://learning-videos-sushma.onrender.com//](https://learning-videos-sushma.onrender.com/)
+[https://learning-videos-sushma.onrender.com/](https://learning-videos-sushma.onrender.com/)
 ### A clone of youtube
 
 ![Home page](https://res.cloudinary.com/dzivm8ve4/image/upload/v1678961785/Screenshot_2023-03-16_154412_xyfes8.png?raw=true)
